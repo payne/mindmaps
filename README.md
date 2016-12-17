@@ -1,3 +1,7 @@
+Below is the original README.md.   The only thing I have done with this code is build it and put it a gh-pages branch.
+
+http://MattPayne.org/mindmaps
+
 # mindmaps
 mindmaps is a prototype of an HTML5 based mind mapping application. It lets you create neat looking mind maps in the browser. 
 
